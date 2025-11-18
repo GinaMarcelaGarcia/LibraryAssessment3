@@ -23,7 +23,7 @@ int main()
     Book book2;
     book2.setBookDetails("Sapiens", "BBBBB", "Gina", true);
     Book book3;
-    book3.setBookDetails("Harry Potter", "CCCCC", "Fernando", true);*/
+    book3.setBookDetails("Princess", "CCCCC", "Fernando", true);*/
     //TODO: ADD 2 MORE BOOKS
 
    /* arrayBook[0] = book1;
@@ -48,7 +48,7 @@ int main()
         }else if (option == 5) {
             addNewBooks();
         }else if (option == 6) {
-            cout << "BYE I hope to see you soon again!";
+            cout << "We hope yo see you again, here!";
             break;
         }else {
             cout << "Invalid Option, please select and option from 1 to 6" << endl;
