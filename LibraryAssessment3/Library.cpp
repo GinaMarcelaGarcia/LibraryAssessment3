@@ -23,7 +23,7 @@ int main()
     Book book2;
     book2.setBookDetails("Sapiens", "BBBBB", "Gina", true);
     Book book3;
-    book3.setBookDetails("Harry Potter", "CCCCC", "Fernanda", true);*/
+    book3.setBookDetails("Harry Potter", "CCCCC", "Fernando", true);*/
     //TODO: ADD 2 MORE BOOKS
 
    /* arrayBook[0] = book1;
